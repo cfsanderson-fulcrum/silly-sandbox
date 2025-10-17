@@ -4,7 +4,8 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0;
+    background-color: #121212;
+    color: #fff;
     font-family: sans-serif;
 }
 
@@ -18,7 +19,8 @@ body {
     cursor: pointer;
     border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #ff69b4;
+    color: #fff;
 }
 
 #emoji-display {
@@ -29,5 +31,5 @@ body {
 #message-display {
     font-size: 1.5em;
     margin-top: 10px;
-    color: #555;
+    color: #ccc;
 }
