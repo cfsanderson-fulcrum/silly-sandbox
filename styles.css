@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+}
+
+#container {
+    text-align: center;
+}
+
+#emoji-button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+#emoji-display {
+    font-size: 5em;
+    margin-top: 20px;
+}
+
+#message-display {
+    font-size: 1.5em;
+    margin-top: 10px;
+    color: #555;
+}
